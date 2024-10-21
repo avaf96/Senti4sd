@@ -27,5 +27,6 @@ The aim of this project is to study the correctness of answers based on people's
 - Compare the results with the **Senti4SD** sentiment analysis algorithm.
 
 <hr>
+
 #### Open an issue on this repository for questions, feedback, and to reach out for data.
 
